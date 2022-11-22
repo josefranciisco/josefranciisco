@@ -6,6 +6,7 @@
 - 🌱 <i>Estudando JavaScript ...</i>
 - 📫 <i>Contato pelo email:</i> <b>josefranc1sco@outlook.com</b>
 
+![JoseFranciisco GitHub stats](https://github-readme-stats.vercel.app/api?username=josefranciisco&show_icons=true&theme=transparent)
 
   <p>
   <div style="display: inline_block"><br>

@@ -13,7 +13,7 @@
   <img align="center" alt="Juze-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Juze-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Juze-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Juze-pic" height="150" style="border-radius:50px;" src="https://myandroidwalls.com/wp-content/uploads/2021/05/Anonymous-Wallpapers-2.jpg" width=100 &height="100">
+  
 </div>
   
   <p>

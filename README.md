@@ -6,11 +6,7 @@
 - 🌱 <i>Estudando JavaScript ...</i>
 - 📫 <i>Contato pelo email:</i> <b>josefranc1sco@outlook.com</b>
 
-<div align="center">
-  <a href="https://github.com/josefranciisco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josefranciisco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefranciisco&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   <p>
   <div style="display: inline_block"><br>
   <img align="center" alt="Juze-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
